@@ -3,4 +3,4 @@ Unofficial implementation of paper ['Joint-Label Learning by Dual Augmentation f
 
 
 
-![jobda](E:\AAA\myjupyter\github\JobDA\imgs\jobda.JPG)
+![jobda](https://github.com/ZachySun/JobDA/blob/main/imgs/jobda.JPG)
